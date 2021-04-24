@@ -3,12 +3,12 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
-    
-  - title: "Coursework"
-    url: /coursework/
   
   - title: "Publications"
     url: /publications/
+    
+  - title: "Coursework"
+    url: /coursework/
 
   - title: "Blog Posts"
     url: /year-archive/
