@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Coursework"
+title: "Misc"
 author_profile: true
 redirect_from: 
   - /md/
