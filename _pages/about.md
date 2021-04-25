@@ -7,3 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
+please note that this website is still under construction.
