@@ -15,7 +15,9 @@ author_profile: true
 
 
 # Machine Learning & Deep Learning
-## Project #1
+## Computer Vision
+### VinBigData Chest X-ray Abnormalities Detection
+Automatically localize and classify thoracic abnormalities from chest radiographs
 
-
-## Project #2
+### Cassava Leaf Disease Classification
+Identify the type of disease present on a Cassava Leaf image
