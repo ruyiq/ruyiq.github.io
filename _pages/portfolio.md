@@ -22,5 +22,5 @@ Automatically localize and classify thoracic abnormalities from chest radiograph
 ### Cassava Leaf Disease Classification
 Identify the type of disease present on a Cassava Leaf image
 
-# Natural Language Processing
+## Natural Language Processing
 ### Project1
