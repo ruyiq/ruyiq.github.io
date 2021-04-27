@@ -36,15 +36,15 @@ toc: true
 - MAT137: Calculus with proofs ([*Qin Deng*](http://www.math.toronto.edu/dengqin/))
 
 ### Philosophy & Cognitive Science & Psychology
-- COG402:Seminar in Cognitive Science
-- COG250:Cognitive Science
-- PHL342:Minds & Machines
-- PHL245:Modern Symbolic Logic
-- HPS200:Science and Values
-- PSY493:Cognitive Neuroscience
-- PSY290:Physiological Psychology
-- PSY270:Introduction to Cognitive Psychology
-- PSY100:Introduction to Psychology
+- COG402: Seminar in Cognitive Science
+- COG250: Cognitive Science
+- PHL342: Minds & Machines
+- PHL245: Modern Symbolic Logic
+- HPS200: Science and Values
+- PSY493: Cognitive Neuroscience
+- PSY290: Physiological Psychology
+- PSY270: Introduction to Cognitive Psychology
+- PSY100: Introduction to Psychology
 
 ---
 
