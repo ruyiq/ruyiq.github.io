@@ -27,6 +27,7 @@ toc: true
 - MAT337: Introduction to Real Analysis ([*Regina Rotman*](http://www.math.toronto.edu/rina/))
 - MAT301: Groups and Symmetries ([*Vitali Kapovitch*](http://www.math.toronto.edu/vtk/))
 - MAT237: Multivariable Calculus ([*Zachary Wolske*](https://www.math.toronto.edu/cms/people/faculty/wolske-zackary/))
+- APM236: Linear Optimization ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
 - MAT224: Linear Algebra II ([*Nicholas Hoelll*](http://www.math.toronto.edu/nhoell/))
 - MAT223: Linear Algebra I ([*Zachary Wolske*](https://www.math.toronto.edu/cms/people/faculty/wolske-zackary/))
 - MAT137: Calculus with proofs ([*Qin Deng*](http://www.math.toronto.edu/dengqin/))
