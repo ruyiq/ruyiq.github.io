@@ -16,6 +16,9 @@ author_profile: true
 - ### Project #2
 
 
+[Click here to see full data visualization portfolio](https://github.com/ruyiq/Data-visualization-projects)
+
+
 ## Machine Learning: Computer Vision 
 - ### VinBigData Chest X-ray Abnormalities Detection
 Automatically localize and classify thoracic abnormalities from chest radiographs
