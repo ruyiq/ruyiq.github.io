@@ -13,6 +13,9 @@ toc: true
     }
 </style>
 
+{% include toc %}
+
+
 ### Compute Science
 
 - CSC207: Software Design ([*Lindsey Shorser*](http://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/))
