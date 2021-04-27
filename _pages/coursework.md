@@ -19,6 +19,7 @@ toc: true
 
 ### Statistics
 
+- STA347: Probability
 - STA261: Probability and Statistics II / Statistical Inference ([*Robert Zimmerman*](https://www.statistics.utoronto.ca/people/directories/graduate-students/robert-zimmerman))
 - STA257: Probability and Statistics I ([*Katherine Daignault*](https://www.statistics.utoronto.ca/people/directories/all-faculty/katherine-daignault))
 
@@ -32,6 +33,15 @@ toc: true
 - MAT223: Linear Algebra I ([*Zachary Wolske*](https://www.math.toronto.edu/cms/people/faculty/wolske-zackary/))
 - MAT137: Calculus with proofs ([*Qin Deng*](http://www.math.toronto.edu/dengqin/))
 
+### Philosophy & Cognitive Science & Psychology
+- COG402
+- COG250:
+- PHL342:Minds & Machines
+- PHL245:Modern Symbolic Logic
+- PSY493:Cognitive Neuroscience
+- PSY290:Physiological Psychology
+- PSY270:Introduction to Cognitive Psychology
+- PSY100
 
 ---
 
