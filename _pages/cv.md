@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](ruyiq.github.io/Resume (2).pdf)
+[Download Resume](/cv-fyp/)
+
