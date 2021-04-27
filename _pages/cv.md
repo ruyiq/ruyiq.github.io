@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](/resume-fyp/)
+[Download Resume](/resume-fyp.pdf)
 
