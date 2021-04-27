@@ -48,6 +48,9 @@ toc: true
 - PSY493: Cognitive Neuroscience (*Jessica Ann Hughes*)
 - PSY290: Physiological Psychology ([*Junchul Kim*](https://www.psych.utoronto.ca/people/directories/all-faculty/junchul-kim))
 - PSY270: Introduction to Cognitive Psychology ([*Katherine Duncan*](https://www.psych.utoronto.ca/people/directories/all-faculty/katherine-duncan))
+
+
+
 ---
 
 <sup>‡</sup>: graduate level.
