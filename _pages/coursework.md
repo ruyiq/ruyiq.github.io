@@ -26,7 +26,9 @@ toc: true
 ### Mathematics
 - APM462: Nonlinear Optimization ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
 - MAT337: Introduction to Real Analysis ([*Regina Rotman*](http://www.math.toronto.edu/rina/))
+- MAT334: Complex Variables
 - MAT301: Groups and Symmetries ([*Vitali Kapovitch*](http://www.math.toronto.edu/vtk/))
+- MAT246: Abstract Mathematics
 - MAT237: Multivariable Calculus ([*Zachary Wolske*](https://www.math.toronto.edu/cms/people/faculty/wolske-zackary/))
 - APM236: Linear Optimization ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
 - MAT224: Linear Algebra II ([*Nicholas Hoelll*](http://www.math.toronto.edu/nhoell/))
@@ -34,14 +36,15 @@ toc: true
 - MAT137: Calculus with proofs ([*Qin Deng*](http://www.math.toronto.edu/dengqin/))
 
 ### Philosophy & Cognitive Science & Psychology
-- COG402
-- COG250:
+- COG402:Seminar in Cognitive Science
+- COG250:Cognitive Science
 - PHL342:Minds & Machines
 - PHL245:Modern Symbolic Logic
+- HPS200:Science and Values
 - PSY493:Cognitive Neuroscience
 - PSY290:Physiological Psychology
 - PSY270:Introduction to Cognitive Psychology
-- PSY100
+- PSY100:Introduction to Psychology
 
 ---
 
