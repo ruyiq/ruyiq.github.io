@@ -19,7 +19,7 @@ toc: true
 
 ### Statistics
 
-- STA261: Probability and Statistics II / Statistical Inference (*Robert Zimmerman*)
+- STA261: Probability and Statistics II / Statistical Inference ([*Robert Zimmerman*](https://www.statistics.utoronto.ca/people/directories/graduate-students/robert-zimmerman))
 - STA257: Probability and Statistics I ([*Katherine Daignault*](https://www.statistics.utoronto.ca/people/directories/all-faculty/katherine-daignault))
 
 ### Mathematics
