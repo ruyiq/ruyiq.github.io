@@ -11,10 +11,6 @@ author_profile: true
 
 
 ## Data Visualization
-- ### Project #1
-
-- ### Project #2
-
 
 [Click here to see full data visualization portfolio](https://github.com/ruyiq/Data-visualization-projects)
 
