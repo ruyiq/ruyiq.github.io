@@ -26,4 +26,6 @@ Identify the type of disease present on a Cassava Leaf image
 
 ## Machine Learning: Natural Language Processing
 - ### Chat Bot
+My own chat bot
+
 [See full portfolio](https://github.com/ruyiq)
