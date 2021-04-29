@@ -25,5 +25,5 @@ Identify the type of disease present on a Cassava Leaf image
 [See full portfolio](https://github.com/ruyiq)
 
 ## Machine Learning: Natural Language Processing
-- ### Project#1
+- ### Chat Bot
 [See full portfolio](https://github.com/ruyiq)
