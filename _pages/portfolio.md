@@ -9,12 +9,6 @@ author_profile: true
 {% include toc %}
 
 
-
-## Data Visualization
-
-[Click here to see full data visualization portfolio](https://github.com/ruyiq/Data-visualization-projects)
-
-
 ## Machine Learning: Computer Vision 
 - ### [VinBigData Chest X-ray Abnormalities Detection](https://github.com/ruyiq/VinBigData-Chest-X-ray-Abnormalities-Detection)
 Automatically localize and classify thoracic abnormalities from chest radiographs. Obtained Bronze medal (Top 9%) from Kaggle Competition.
@@ -32,4 +26,3 @@ Results are published in a EI Conference. The main innovation of this paper is t
 - ### [Classification Of Fake News Headline Based On Neural Networks](https://github.com/ruyiq/Classification-Of-Fake-News-Headline-Based-On-Neural-Networks)
 Results are published in a EI Conference. Obtained a accuracy of 0.8622, which has highest accuracy among previous models.
 
-//[See full portfolio](https://github.com/ruyiq)
