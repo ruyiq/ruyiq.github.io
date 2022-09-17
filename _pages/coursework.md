@@ -19,8 +19,8 @@ toc: true
 ### Computer Science
 
 - CSC207: Software Design ([*Lindsey Shorser*](http://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/))
-- CSC311: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
-- CSC413: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
+- CSC311<sup>‡</sup>: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
+- CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
 
 ### Statistics
 
@@ -55,7 +55,7 @@ toc: true
 - PSY240: Introduction to Abnormal Psychology ([*Simone Walker*](https://www.utm.utoronto.ca/psychology/people/simone-walker)
 - PSY270: Introduction to Cognitive Psychology ([*Katherine Duncan*](https://www.psych.utoronto.ca/people/directories/all-faculty/katherine-duncan))
 - PSY290: Physiological Psychology ([*Junchul Kim*](https://www.psych.utoronto.ca/people/directories/all-faculty/junchul-kim))
-- PSY493: Cognitive Neuroscience (*Jessica Ann Hughes*)
+- PSY493<sup>‡</sup>: Cognitive Neuroscience (*Jessica Ann Hughes*)
 
 ---
 
