@@ -7,7 +7,8 @@ author_profile: true
 <style> ul { margin-bottom: 0; } </style>
 
 {% include toc %}
-
+## Data Visualization
+- ### Tableau Porfolio
 
 ## Machine Learning: Computer Vision 
 - ### [VinBigData Chest X-ray Abnormalities Detection](https://github.com/ruyiq/VinBigData-Chest-X-ray-Abnormalities-Detection)
