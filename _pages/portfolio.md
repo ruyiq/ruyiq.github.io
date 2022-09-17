@@ -8,7 +8,7 @@ author_profile: true
 
 {% include toc %}
 ## Data Visualization
-- ### [Tableau Porfolio](https://public.tableau.com/app/profile/ruyi8631)
+- ### [Tableau Portfolio](https://public.tableau.com/app/profile/ruyi8631)
 
 ## Machine Learning: Computer Vision 
 - ### [VinBigData Chest X-ray Abnormalities Detection](https://github.com/ruyiq/VinBigData-Chest-X-ray-Abnormalities-Detection)
