@@ -7,10 +7,10 @@ author_profile: true
 <style> ul { margin-bottom: 0; } </style>
 
 {% include toc %}
-## Data Visualization
-- ### [Visualization with Tableau](https://public.tableau.com/app/profile/ruyi8631)
-- ### [Visualization with Power BI](https://github.com/ruyiq/powere-bi-portfolio.git)
-- ### [Visualization with Python]()
+## Data Analysis and Visualization
+- ### [with Tableau](https://public.tableau.com/app/profile/ruyi8631)
+- ### [with Power BI](https://github.com/ruyiq/powere-bi-portfolio.git)
+- ### [with Python]()
 
 ## Machine Learning: Computer Vision 
 - ### [VinBigData Chest X-ray Abnormalities Detection](https://github.com/ruyiq/VinBigData-Chest-X-ray-Abnormalities-Detection)
