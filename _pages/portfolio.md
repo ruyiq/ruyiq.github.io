@@ -19,7 +19,7 @@ Automatically localize and classify thoracic abnormalities from chest radiograph
 - ### [Cassava Leaf Disease Classification](https://github.com/ruyiq/Cassava-Leaf-Disease-Classification)
 Identify the type of disease present on a Cassava Leaf image. Obtained Bronze medal (Top 9%) from Kaggle Competition.
 
-- ### UW-Madison GI Tract Image Segmentation
+- ### [UW-Madison GI Tract Image Segmentation](https://github.com/ruyiq/UW-Madison-GI-Tract-Image-Segmentation.git)
 Automatically segment the stomach and intestines on MRI scans. Obtained Bronze medal (Top 8%) from Kaggle Competition.
 
 - ### [The Vehicle Trajectory Prediction Based on ResNet and EfficientNet Model](https://github.com/ruyiq/The-Vehicle-Trajectory-Prediction-Based-on-ResNet-and-EfficientNet-Model#the-vehicle-trajectory-prediction-based-on-resnet-and-efficientnet-model)
