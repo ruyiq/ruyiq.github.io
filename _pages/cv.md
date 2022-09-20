@@ -11,3 +11,4 @@ redirect_from:
 
 [Download Resume](/resume-fyp.pdf)
 
+xfun::embed_file("/resume-fyp.pdf")
