@@ -10,5 +10,3 @@ redirect_from:
 {% include base_path %}
 
 [Download Resume](/resume-fyp.pdf)
-
-xfun::embed_file("/resume-fyp.pdf")
