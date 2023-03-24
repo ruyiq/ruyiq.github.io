@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, this is Ruyi Qu.  I graduated from the University of Toronto in Steptember 2022 majoring in both mathematics and cognitive science.
+Hello, this is Ruyi Qu.  I graduated from the University of Toronto in Steptember 2022 majoring in both mathematics and cognitive science. Currently, I'm working at Hotspex Media as a Digital Marketing Data Analyst. 
 
 I have gained a background in programming languages and software including (but not limited to) C++, Python, Java, R as well as  using different libraries such as NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, Keras, TensorFlow, Matplotlib, and Seaborn. 
 
