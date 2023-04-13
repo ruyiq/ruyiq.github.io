@@ -65,7 +65,10 @@ toc: true
 - PSY290: Physiological Psychology ([*Junchul Kim*](https://www.psych.utoronto.ca/people/directories/all-faculty/junchul-kim))
 - PSY493<sup>‡</sup>: Cognitive Neuroscience (*Jessica Ann Hughes*)
 
-
+### Certificates & Bootcamps
+#### Coursera
+- [Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/specializations/data-analysis-visualization-foundations)
+- [Google Data Analytics Professional Certificate](https://grow.google/certificates/data-analytics/?utm_source=gDigital&utm_medium=paidha&utm_campaign=can-sem-bk-data-exa-glp-br&utm_content=keyword&gclid=CjwKCAjw0N6hBhAUEiwAXab-Tf-cv-FLXApbABXTR7rn2CGRd_YTEYwO_PIAc2N3uJmcho9WDp6xIhoCh6gQAvD_BwE#?modal_active=none)
 ---
 
 <sup>‡</sup>: graduate level.
