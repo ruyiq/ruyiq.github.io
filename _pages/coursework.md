@@ -15,14 +15,14 @@ toc: true
 
 {% include toc %}
 
-
-### Computer Science
+### University Courses
+#### Computer Science
 
 - CSC207: Software Design ([*Lindsey Shorser*](http://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/))
 - CSC311<sup>‡</sup>: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
 - CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
 
-### Business & Data Analytics
+#### Business & Data Analytics
 - BUS200: Intermediate Business Computing
 - BUS307: Fundamentals of Consumer Behavior
 - BUS353: Legal and Ethical Issues in Business
@@ -30,13 +30,13 @@ toc: true
 - BUS330: Marketing Management
 - BUS440: Business Analytics
 
-### Statistics
+#### Statistics
 
 - STA257: Probability and Statistics I ([*Katherine Daignault*](https://www.statistics.utoronto.ca/people/directories/all-faculty/katherine-daignault))
 - STA261: Probability and Statistics II / Statistical Inference ([*Robert Zimmerman*](https://www.statistics.utoronto.ca/people/directories/graduate-students/robert-zimmerman))
 - STA347: Probability ([*Gun Ho Jang*](http://www.utstat.toronto.edu/~gunho/home.php))
   
-### Mathematics
+#### Mathematics
 
 - MAT137: Calculus with proofs ([*Qin Deng*](http://www.math.toronto.edu/dengqin/))
 - MAT223: Linear Algebra I ([*Zachary Wolske*](https://www.math.toronto.edu/cms/people/faculty/wolske-zackary/))
@@ -52,7 +52,7 @@ toc: true
 - APM462: Nonlinear Optimization ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
 
 
-### Philosophy & Cognitive Science & Psychology
+#### Philosophy & Cognitive Science & Psychology
 
 - COG250: Cognitive Science ([*John Vervaeke*](https://www.psych.utoronto.ca/people/directories/all-faculty/john-vervaeke))
 - COG402: Seminar in Cognitive Science ([*John Vervaeke*](https://www.psych.utoronto.ca/people/directories/all-faculty/john-vervaeke))
@@ -66,9 +66,10 @@ toc: true
 - PSY493<sup>‡</sup>: Cognitive Neuroscience (*Jessica Ann Hughes*)
 
 ### Certificates & Bootcamps
-#### Coursera
+
 - [Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/specializations/data-analysis-visualization-foundations)
 - [Google Data Analytics Professional Certificate](https://grow.google/certificates/data-analytics/?utm_source=gDigital&utm_medium=paidha&utm_campaign=can-sem-bk-data-exa-glp-br&utm_content=keyword&gclid=CjwKCAjw0N6hBhAUEiwAXab-Tf-cv-FLXApbABXTR7rn2CGRd_YTEYwO_PIAc2N3uJmcho9WDp6xIhoCh6gQAvD_BwE#?modal_active=none)
+
 ---
 
 <sup>‡</sup>: graduate level.
