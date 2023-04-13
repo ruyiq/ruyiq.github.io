@@ -22,6 +22,14 @@ toc: true
 - CSC311<sup>‡</sup>: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
 - CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
 
+### Business & Data Analytics
+- BUS200: Intermediate Business Computing
+- BUS307: Fundamentals of Consumer Behavior
+- BUS353: Legal and Ethical Issues in Business
+- BUS469: Strategic Professional Communication
+- BUS330: Marketing Management
+- BUS440: Business Analytics
+
 ### Statistics
 
 - STA257: Probability and Statistics I ([*Katherine Daignault*](https://www.statistics.utoronto.ca/people/directories/all-faculty/katherine-daignault))
@@ -56,6 +64,7 @@ toc: true
 - PSY270: Introduction to Cognitive Psychology ([*Katherine Duncan*](https://www.psych.utoronto.ca/people/directories/all-faculty/katherine-duncan))
 - PSY290: Physiological Psychology ([*Junchul Kim*](https://www.psych.utoronto.ca/people/directories/all-faculty/junchul-kim))
 - PSY493<sup>‡</sup>: Cognitive Neuroscience (*Jessica Ann Hughes*)
+
 
 ---
 
