@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coursework & Certification"
+title: "Coursework"
 permalink: /coursework/
 author_profile: true
 toc: true
@@ -64,9 +64,6 @@ toc: true
 - PSY270: Introduction to Cognitive Psychology ([*Katherine Duncan*](https://www.psych.utoronto.ca/people/directories/all-faculty/katherine-duncan))
 - PSY290: Physiological Psychology ([*Junchul Kim*](https://www.psych.utoronto.ca/people/directories/all-faculty/junchul-kim))
 - PSY493<sup>‡</sup>: Cognitive Neuroscience (*Jessica Ann Hughes*)
-
-### Certificates
-- Tableau Desktop Specialist
 
 ### Coursera & Bootcamps
 
