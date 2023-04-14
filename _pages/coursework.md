@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coursework"
+title: "Coursework & Certification"
 permalink: /coursework/
 author_profile: true
 toc: true
