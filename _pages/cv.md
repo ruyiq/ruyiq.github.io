@@ -11,13 +11,6 @@ redirect_from:
 
 <span class="name">Ruyi Qu</span>
 
-<span class="info">
-
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) cassielchiu@outlook.com](mailto:cassielchiu@outlook.com)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/ruyiq](https://github.com/ruyiq)
-
-</span>
-
 ## Education
 
 ### University of Toronto | <location> Toronto, ON, CA </location> <time> Sep 2018 – Sep 2022 </time>
@@ -54,8 +47,7 @@ redirect_from:
 ## Certifications
 
 <!-- Sep 2022 -->
-### Tableau Desktop Specialist </location> <time> 2022 </time>
-
+### Tableau Desktop Specialist <time> 2022 </time>
 
 
 
