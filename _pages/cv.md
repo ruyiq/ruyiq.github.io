@@ -18,7 +18,7 @@ redirect_from:
 
 ## Work Experience
 
-#### Hotspex Media (Data Analyst, Nov 2022 – Present) 
+### Hotspex Media (Data Analyst, Nov 2022 – Present) 
 
 - Load data into BI Platform (such as Looker Studio) and create visualizations to analyze campaign results based on campaign parameters.
 - Create custom metrics in BI Platform as requested, providing actionable insights for decision-making.
