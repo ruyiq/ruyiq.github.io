@@ -20,16 +20,14 @@ redirect_from:
 
 ### Hotspex Media (Data Analyst, Nov 2022 – Present) 
 
-- Load data into BI Platform (such as Looker Studio) and create visualizations to analyze campaign results based on campaign parameters.
-- Create custom metrics in BI Platform as requested, providing actionable insights for decision-making.
-- Identify opportunities for process improvement and automation, streamlining data analysis and reporting processes.
-- Modify visualizations to allow for easy identification of insights and optimization of campaigns for better performance.
-- Support campaign management and client service team members with ad hoc requests, providing timely and accurate data insights.
-- Oversee the implementation of advertising pixels via Google Tag Manager, configuring standard and custom triggers, as well as dataLayer variables as required.
-- Write reproducible SQL queries for data processing and manipulation, ensuring data accuracy and integrity.
-- Collaborate with vendors to improve API management and data collection opportunities, enhancing data quality and efficiency.
-- Create, manage, and QA data streams using ETL tool such as Adverity, ensuring data integrity and accuracy.
-- Blend datasets to support aggregated reporting requirements, providing comprehensive insights for strategic decision-making.
+- Orchestrated the seamless integration of data into the BI Platform, unveiling insightful campaign outcomes through compelling visualizations. 
+- Innovated by devising custom metrics within the BI Platform, adding unique insights to enhance data-driven decision-making.
+- Proactively pinpointed process enhancement and automation prospects, implementing solutions that optimized efficiency and effectiveness.
+- Collaborated closely with campaign management and client service teams, providing timely assistance for ad hoc requests and bolstering seamless operations.
+- Implemented advertising pixels via Google Tag Manager, utilizing JavaScript expertise for precise data collection.
+- Created reliable and reproducible SQL queries to manipulate and process data, facilitating accurate analysis and actionable insights.
+- Led data stream creation, management, and quality assurance, crucial in maintaining ads data integrity via ETL tool use.
+- Collaborated with clients to provide strategic marketing analytics consulting, guiding and optimizing their marketing endeavors with data-driven insights.
 
 
 ### RallyCry Ventures (Data Analyst, Mar 2021 - July 2021)  
