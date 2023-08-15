@@ -11,6 +11,10 @@ redirect_from:
 
 ## Education
 
+### Georgia Institute of Technology (Sep 2023 – Present)  
+
+- M.S. in Computer Science
+
 ### University of Toronto (Sep 2018 – Sep 2022)  
 
 - B.S. in Mathematics and Cognitive Science (Computational Cognition Stream)
