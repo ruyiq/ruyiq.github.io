@@ -21,8 +21,8 @@ toc: true
 - CSC207: Software Design ([*Lindsey Shorser*](http://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/))
 - CSC311<sup>‡</sup>: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
 - CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
-- CS6310<sup>‡</sup>: Software Architecture and Design ([*Mark Moss*]([https://www.cs.toronto.edu/~rgrosse/](https://omscs.gatech.edu/sites/default/files/documents/course_page_docs/other/cs_6310_mark_moss_cv.pdf)))
-- CS7646<sup>‡</sup>: Machine Learning for Trading ([*David Joyner*]([https://jimmylba.github.io/](https://www.davidjoyner.net/)))
+- CS6310<sup>‡</sup>: Software Architecture and Design ([*Mark Moss*](https://omscs.gatech.edu/sites/default/files/documents/course_page_docs/other/cs_6310_mark_moss_cv.pdf)
+- CS7646<sup>‡</sup>: Machine Learning for Trading ([*David Joyner*](https://www.davidjoyner.net/))
 
 #### Statistics
 
