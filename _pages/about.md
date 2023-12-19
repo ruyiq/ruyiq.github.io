@@ -12,3 +12,6 @@ Hello, this is Ruyi Qu.  I graduated from the University of Toronto in Steptembe
 I have gained a background in programming languages and software including (but not limited to) C++, Python, Java, R as well as  using different libraries such as NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, Keras, TensorFlow, Matplotlib, and Seaborn. 
 
 Besides all, I enjoy reading in my leisure time. You are welcome to contact me and start a conversation if you have a similar interest :)
+
+[Click to Download My Resume](ruyiq.github.io/resume.pdf)
+
