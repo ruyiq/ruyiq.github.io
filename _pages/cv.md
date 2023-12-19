@@ -23,15 +23,20 @@ redirect_from:
 ## Work Experience
 
 ### Hotspex Media (Data Analyst, Nov 2022 – Present) 
-
-- Orchestrated the seamless integration of data into the BI Platform, unveiling insightful campaign outcomes through compelling visualizations. 
-- Innovated by devising custom metrics within the BI Platform, adding unique insights to enhance data-driven decision-making.
-- Proactively pinpointed process enhancement and automation prospects, implementing solutions that optimized efficiency and effectiveness.
-- Collaborated closely with campaign management and client service teams, providing timely assistance for ad hoc requests and bolstering seamless operations.
+- Acted as a data analytics lead for an ad pod, managing end-to-end analytics for a dedicated client base.
 - Implemented advertising pixels via Google Tag Manager, utilizing JavaScript expertise for precise data collection.
-- Created reliable and reproducible SQL queries to manipulate and process data, facilitating accurate analysis and actionable insights.
-- Led data stream creation, management, and quality assurance, crucial in maintaining ads data integrity via ETL tool use.
-- Collaborated with clients to provide strategic marketing analytics consulting, guiding and optimizing their marketing endeavors with data-driven insights.
+- Oversaw ETL workflows, ensuring data integrity and quality, resulting in a 30% reduction in data discrepancies.
+- Orchestrated data integration into BI platforms, creating engaging visualizations to guide decision-making.
+- Innovated by devising custom metrics within the BI Platform, adding unique insights to enhance data-driven decisionmaking
+- Spearheaded quarterly business reviews (QBRs) and detailed marketing analysis for major clients, influencing key
+strategic decisions.
+- Developed and executed SQL queries, contributing to a 20% increase in campaign efficiency through precise data
+analysis.
+- Improved operational processes and efficiency, leading to a 15% increase in team productivity and client satisfaction.
+- Collaborated closely with campaign management and client service teams, providing timely assistance for ad hoc
+requests and bolstering seamless operations.
+- Trained a full-time data analyst and a tag implementation intern, sharing expertise and fostering professional
+development within the team.
 
 
 ### RallyCry Ventures (Data Analyst, Mar 2021 - July 2021)  
