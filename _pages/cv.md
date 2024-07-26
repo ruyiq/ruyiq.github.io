@@ -22,21 +22,17 @@ redirect_from:
 
 ## Work Experience
 
-### Hotspex Media (Data Analyst, Nov 2022 – Present) 
-- Acted as a data analytics lead for an ad pod, managing end-to-end analytics for a dedicated client base.
-- Implemented advertising pixels via Google Tag Manager, utilizing JavaScript expertise for precise data collection.
-- Oversaw ETL workflows, ensuring data integrity and quality, resulting in a 30% reduction in data discrepancies.
-- Orchestrated data integration into BI platforms, creating engaging visualizations to guide decision-making.
-- Innovated by devising custom metrics within the BI Platform, adding unique insights to enhance data-driven decisionmaking
-- Spearheaded quarterly business reviews (QBRs) and detailed marketing analysis for major clients, influencing key
-strategic decisions.
-- Developed and executed SQL queries, contributing to a 20% increase in campaign efficiency through precise data
-analysis.
-- Improved operational processes and efficiency, leading to a 15% increase in team productivity and client satisfaction.
-- Collaborated closely with campaign management and client service teams, providing timely assistance for ad hoc
-requests and bolstering seamless operations.
-- Trained a full-time data analyst and a tag implementation intern, sharing expertise and fostering professional
-development within the team.
+### Hotspex Media (Senior Data Analyst, Nov 2022 – Present) 
+-	Led data analytics for an ad pod, managing end-to-end marketing performance analytics for a dedicated client base.
+-	Orchestrated data integration into BI platforms, creating engaging visualizations and custom metrics, guiding decision-making by utilizing Campaign pacing reports and insights.
+-	Spearheaded quarterly business reviews (QBRs) and detailed marketing analyses for major clients, influencing key strategic decisions.
+-	Led advanced marketing science projects, including but not limited to Dupont Analysis, Incrementality, and Efficiency/Effectiveness, RFM Analysis to present findings to clients.
+-	Developed and utilized SQL queries for multiple clients to analyze ROAS, and CAC for marketing channels resulting in a 20% increase in marketing campaign efficiency through precise exploratory data analysis.
+-	Achieved an increase of 5% in ROI by modelling a Markov chain attribution to work with Google’s DDA model to attribute conversions to online sources using data from Google Analytics 360.
+-	Collaborated closely with Marketing stakeholders and client service teams, providing quality insights for ad hoc requests and bolstering seamless operations.
+-	Assisted in MMM and MTA deployment, implementation and insights reporting for various e-commerce clients resulting in overall spend and ROAS efficiency.
+-	Trained and mentored junior and senior team members, including full-time data analysts and a tag implementation intern, fostering professional development within the team.
+
 
 
 ### RallyCry Ventures (Data Analyst, Mar 2021 - July 2021)  
