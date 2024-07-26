@@ -37,12 +37,18 @@ redirect_from:
 
 
 
-### RallyCry Ventures (Data Analyst, Mar 2021 - July 2021)  
+### RallyCry Ventures (Venture Capital Data Analyst, Mar 2021 - July 2021)  
 - Conducted advanced data analytics and quantitative analysis on investment portfolio, proving insightful suggestions to help investors make wise and successful decisions
 - Dealt with datasets with more than three million rows, and used SQL to manage datasets and Tableau to create interactive dashboards
 - Built a start-up success prediction model using machine learning algorithms (Random Forest, LGBM, XGBoost, etc.), achieving 70% accuracy rate to effectively support crucial investment decisions and increase ROI by 20%
 - Managed a data automation project, changed monthly from manual Excel loading to SQL auto-refresh on Tableau, significantly improving data reporting and visualization efficiency by 40%
 
+### Huawei Canada (Human Resources Analyst, May 2020 - Dec 2020)                                                                                                                                
+-	Collaborated with the HR talent acquisition team to conduct data analysis, visualization, and reporting.
+-	Built a logistic regression model to analyze significant factors which influence employee turnover, providing actionable suggestions to reduce employee churn.
+-	Created interactive dashboards using SQL and Tableau, demonstrating monthly data insights and descriptive statistics.
+-	Automated the process of extracting and cleaning external talent acquisition data, improving hiring efficiency by 4% and effectively improving the quality of hire. 
+-	Utilized Python API to request and analyze data, automating dashboard generation and supporting stakeholders to make right and wise decisions.
 
 ## Certification
 
