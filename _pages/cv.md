@@ -43,7 +43,7 @@ redirect_from:
 - Built a start-up success prediction model using machine learning algorithms (Random Forest, LGBM, XGBoost, etc.), achieving 70% accuracy rate to effectively support crucial investment decisions and increase ROI by 20%
 - Managed a data automation project, changed monthly from manual Excel loading to SQL auto-refresh on Tableau, significantly improving data reporting and visualization efficiency by 40%
 
-### Huawei Canada (Human Resources Analyst, May 2020 - Dec 2020)                                                                                                                                
+### Huawei Canada (Human Resources Data Analyst, May 2020 - Dec 2020)                                                                                                                                
 -	Collaborated with the HR talent acquisition team to conduct data analysis, visualization, and reporting.
 -	Built a logistic regression model to analyze significant factors which influence employee turnover, providing actionable suggestions to reduce employee churn.
 -	Created interactive dashboards using SQL and Tableau, demonstrating monthly data insights and descriptive statistics.
