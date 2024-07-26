@@ -13,5 +13,5 @@ I have gained a background in programming languages and software including (but 
 
 Besides all, I enjoy reading in my leisure time. You are welcome to contact me and start a conversation if you have a similar interest :)
 
-[Click to Download My Resume](/resume.pdf)
+[Click to Download My Resume](/Ruyi Qu - Resume.pdf)
 
