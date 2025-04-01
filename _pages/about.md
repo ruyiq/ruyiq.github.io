@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, this is Ruyi Qu.  I graduated from the University of Toronto in Steptember 2022 majoring in both mathematics and cognitive science. Currently, I'm working at Hotspex Media as a Senior Data Analyst. 
+Hi! I’m Ruyi — a data-driven storyteller, marketing science analyst, and lifelong learner. I use analytics to turn complex data into actionable insights that drive growth, shape strategy, and make a real impact.
 
-I have gained a background in programming languages and software including (but not limited to) C++, Python, Java, R as well as  using different libraries such as NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, Keras, TensorFlow, Matplotlib, and Seaborn. 
+I currently work as a Senior Marketing Science Analyst at Knix, where I help optimize campaigns, track customer behavior, and uncover what truly moves the needle. My background spans agency and in-house roles, with experience in attribution, A/B testing, e-commerce analytics, and customer segmentation. I’m also a certified Tableau Desktop Specialist and a two-time Kaggle bronze medalist.
 
-Besides all, I enjoy reading in my leisure time. You are welcome to contact me and start a conversation if you have a similar interest :)
+Outside of work, I’m a master’s student at Georgia Tech, an avid reader (50+ books in 2024!), and the proud pet parent of 3 cats and 3 dogs. I’m also passionate about community building — I lead the Toronto chapter of Girls Who Impact, a platform helping Asian women explore impact and sustainability careers.
+
+Whether you’re here to explore my projects, connect over data, or just say hi — welcome! I’m glad you’re here.
 
 [Click to Download My Resume](/Ruyi_Qu-Resume_Jan17.pdf)
 
