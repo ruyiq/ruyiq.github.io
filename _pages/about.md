@@ -18,5 +18,6 @@ What I enjoy most about data is the thinking behind it — breaking down ambiguo
 Outside of work, I’m doing my master’s in Computer Science at Georgia Tech. I read quite a lot, and I have 3 cats and 3 dogs, which honestly takes up more brain space than anything else.
 
 This site is just a place for me to think out loud, share things I’m learning, and document what I’m working on.
+
 [Click to Download My Resume](/Ruyi_Qu-Resume_Jan17.pdf)
 
