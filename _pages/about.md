@@ -9,12 +9,14 @@ redirect_from:
 ---
 Hi, I’m Ruyi.
 
-I’m a Data Scientist at DoorDash, working on fraud, trust, and safety. I focus on understanding complex user behavior, designing experiments, and building measurement frameworks that help protect the integrity of a three-sided marketplace.
+I’m currently a Data Scientist at DoorDash, working on fraud, trust, and safety. A lot of my work is about making sense of messy, real-world behavior — figuring out what’s actually happening, how to measure it properly, and how to make better decisions from it.
 
-Before this, I worked in marketing analytics at Knix, where I focused on attribution, A/B testing, and customer behavior. That experience shaped how I think about data — not just measuring performance, but uncovering what truly drives it.
+I didn’t start in this space. Before DoorDash, I was in marketing analytics at Knix, where I spent a lot of time thinking about attribution, experiments, and customer behavior. That’s really where I learned to care less about surface-level metrics and more about what’s truly driving outcomes.
 
-Outside of work, I’m a master’s student in Computer Science at Georgia Tech and a naturally curious person who enjoys learning, reading, and building. I’m also a proud pet parent to 3 cats and 3 dogs.
+What I enjoy most about data is the thinking behind it — breaking down ambiguous problems, questioning assumptions, and getting to something that actually makes sense.
 
-This is a space where I share my work, ideas, and things I’m exploring along the way.
+Outside of work, I’m doing my master’s in Computer Science at Georgia Tech. I read quite a lot, and I have 3 cats and 3 dogs, which honestly takes up more brain space than anything else.
+
+This site is just a place for me to think out loud, share things I’m learning, and document what I’m working on.
 [Click to Download My Resume](/Ruyi_Qu-Resume_Jan17.pdf)
 
