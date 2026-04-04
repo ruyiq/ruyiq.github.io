@@ -16,17 +16,19 @@ toc: true
 {% include toc %}
 
 ### University Courses
-#### Computer Science
+
+#### Computer Science & Data Science
 
 - CSC207: Software Design ([*Lindsey Shorser*](http://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/))
-- CSC311<sup>‡</sup>: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
-- CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
 - CS6310<sup>‡</sup>: Software Architecture and Design ([*Mark Moss*](https://omscs.gatech.edu/sites/default/files/documents/course_page_docs/other/cs_6310_mark_moss_cv.pdf))
+- CSC311<sup>‡</sup>: Introduction to Machine Learning   ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
 - CS7646<sup>‡</sup>: Machine Learning for Trading ([*David Joyner*](https://www.davidjoyner.net/))
 - CS7641<sup>‡</sup>: Machine Learning ([*Theodore J. LaGrow*](https://www.tjlagrow.com/))
 - CS7638<sup>‡</sup>: Robotics: AI Techniques ([*Dr. Sebastian Thrun*](https://robots.stanford.edu/))
-
-
+- CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
+- INTA6450<sup>‡</sup>: Data Analytics and Security 
+- CSE6242<sup>‡</sup>: Data & Visual Analytics
+  
 #### Statistics
 
 - STA257: Probability and Statistics I ([*Katherine Daignault*](https://www.statistics.utoronto.ca/people/directories/all-faculty/katherine-daignault))
