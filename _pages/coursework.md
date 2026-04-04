@@ -23,6 +23,9 @@ toc: true
 - CSC413<sup>‡</sup>: Neural Networks and Deep Learning ([*Jimmy Ba*](https://jimmylba.github.io/))
 - CS6310<sup>‡</sup>: Software Architecture and Design ([*Mark Moss*](https://omscs.gatech.edu/sites/default/files/documents/course_page_docs/other/cs_6310_mark_moss_cv.pdf))
 - CS7646<sup>‡</sup>: Machine Learning for Trading ([*David Joyner*](https://www.davidjoyner.net/))
+- CS7641<sup>‡</sup>: Machine Learning ([*Theodore J. LaGrow*](https://www.tjlagrow.com/))
+- CS7638<sup>‡</sup>: Robotics: AI Techniques ([*Dr. Sebastian Thrun*](https://robots.stanford.edu/))
+
 
 #### Statistics
 
@@ -58,6 +61,9 @@ toc: true
 - PSY270: Introduction to Cognitive Psychology ([*Katherine Duncan*](https://www.psych.utoronto.ca/people/directories/all-faculty/katherine-duncan))
 - PSY290: Physiological Psychology ([*Junchul Kim*](https://www.psych.utoronto.ca/people/directories/all-faculty/junchul-kim))
 - PSY493<sup>‡</sup>: Cognitive Neuroscience (*Jessica Ann Hughes*)
+
+#### Business
+- MGT6311: Digital Marketing ([*Alka Citrin, Ph.D.*](https://www.scheller.gatech.edu/directory/faculty/citrin/index.html))
 
 ### Coursera & Bootcamps
 
